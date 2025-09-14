@@ -1,3 +1,16 @@
-client_code,name,status,age,city,avg_monthly_balance_KZT
-1,Рамазан,Студент,21,Алматы,150000
-2,Аиша,Зарплатный клиент,29,Астана,950000
+client_code,name,status,age,city,avg_monthly_balance,currency
+1,Данияр,Active,28,Алматы,350000,KZT
+2,Тимур,Active,32,Астана,420000,KZT
+3,Аян,Active,26,Шымкент,310000,KZT
+4,Мадина,Active,30,Алматы,400000,KZT
+5,Карина,Active,25,Астана,290000,KZT
+6,Жанар,Active,33,Караганда,360000,KZT
+7,Диас,Active,27,Алматы,500000,KZT
+8,Ерасыл,Active,29,Астана,410000,KZT
+9,Санжар,Active,31,Шымкент,280000,KZT
+10,Анель,Active,24,Алматы,340000,KZT
+11,Аружан,Active,26,Астана,370000,KZT
+12,Гульмира,Active,34,Караганда,330000,KZT
+13,Маржан,Active,28,Алматы,390000,KZT
+14,Алтынай,Active,27,Астана,310000,KZT
+15,Ербол,Active,32,Шымкент,370000,KZT
